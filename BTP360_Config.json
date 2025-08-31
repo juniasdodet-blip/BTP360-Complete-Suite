@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "database": {
+    "name": "BTP360_Backend.accdb",
+    "path": "./Database/"
+  },
+  "excel_frontend": {
+    "name": "BTP360_Frontend.xlsm",
+    "path": "./Excel_Frontend/"
+  },
+  "modules": [
+    "Chantiers",
+    "Pointage",
+    "RH",
+    "Matériel",
+    "DevisFacturation",
+    "Trésorerie",
+    "Dashboard"
+  ]
+}
